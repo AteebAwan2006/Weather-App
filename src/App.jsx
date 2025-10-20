@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
 import Weather from "./MyComponent/Weather";
-import Search from "./MyComponent/search";
+import Search from "./MyComponent/Search";
 import axios from "axios";
 import BgVideo from "./assets/Bg.mp4";
 import Header from "./MyComponent/Header";
